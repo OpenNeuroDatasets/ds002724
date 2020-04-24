@@ -1,5 +1,5 @@
 {
-    "Name": "phBCMItraining",
+    "Name": "A dataset recorded during development of an affective brain-computer music interface: training sessions",
     "BIDSVersion": "1.0.2",
     "Authors": [
         "Ian Daly",
